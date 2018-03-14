@@ -1,0 +1,1 @@
+This is a repository for various implementations of Machine Learning algorithms in a streaming setting. It allows users to operate on large datasets without the need to store large data in memory. Using cloud services such as Amazon Web Services (AWS), one can analyze large data at much lower cost. 
