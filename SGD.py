@@ -111,7 +111,7 @@ for ite in range(max_iters):
 
 update = 1-2*lr*reg_coeff
 
-"""for i in range (5):
+for i in range (5):
 	for j in range (len(B[i])):
 		B[i][j] *= update**(k-A[i][j])
 
@@ -143,6 +143,6 @@ with open(testData) as fp:
 
 		print(outStr[:-1])
 	
-		line = fp.readline()"""
+		line = fp.readline()
 
 
